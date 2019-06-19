@@ -1,0 +1,5 @@
+﻿  World1.cpp
+c:\users\алексей\source\repos\world1\world1\world1.cpp(298): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+c:\users\алексей\source\repos\world1\world1\world1.cpp(364): warning C4244: аргумент: преобразование "unsigned __int64" в "const unsigned int", возможна потеря данных
+c:\users\алексей\source\repos\world1\world1\world1.cpp(465): warning C4244: аргумент: преобразование "unsigned __int64" в "const unsigned int", возможна потеря данных
+  World1.vcxproj -> C:\Users\Алексей\source\repos\World1\Debug\World1.exe
